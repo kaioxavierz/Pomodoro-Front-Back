@@ -1,6 +1,5 @@
-![Image](https://github.com/user-attachments/assets/abcc4d3a-197c-43fe-8545-c6306e6337d3)
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/abcc4d3a-197c-43fe-8545-c6306e6337d3)">
+  <img src="./public/Captura de tela de 2025-04-12 14-31-59.png">
 </div>
 
 # Getting Started with Create React App
